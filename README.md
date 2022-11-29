@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About this project
+In this project, when the app first loads, it's going to reach out to the API and get 100 of the most popular meme-images at that time. And give the user the ability to enter the text that shows up on the top and bottom of image. And also to click a button to randomly choose a new meme-image.
+
+![Meme Generator](https://user-images.githubusercontent.com/80633197/204593206-c57515ae-ebbe-4902-8779-a1c5c7e6b14e.jpg)
+
+
+# What I learnt from this?
+* **Event Listeners:** An event listener is a procedure in JavaScript that waits for an event to occur.
+* **State:** The state is a built-in React object that is used to contain data or information about the component. 
+* **Conditional Rendering:** It allows us to create distinct components that encapsulate behavior you need.
+* **Forms:**  Forms allows users to interact with the web page
+* **Side Effects:** Data fetching, setting up a subscription, and manually changing the DOM in React components
+
+
 ## Available Scripts
 
 In the project directory, you can run:
