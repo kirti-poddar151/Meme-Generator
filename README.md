@@ -17,7 +17,7 @@ In this project, when the app first loads, it's going to reach out to the API an
 
 
 # Website Link
-https://lnkd.in/eCF62UqR
+https://lnkd.in/eSqpFdn4
 
 ## Available Scripts
 
